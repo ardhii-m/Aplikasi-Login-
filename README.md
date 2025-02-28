@@ -1,3 +1,3 @@
 # Aplikasi-Login
 
-Branching Training
+Branching & Forking tutorial purposes.
